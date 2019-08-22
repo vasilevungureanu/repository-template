@@ -2,7 +2,7 @@
 
 > A template for creating new repositories
 
-This repository is meant to serve as a general template for how to set up new general purpose repositories.
+This repository is meant to serve as a template for how to set up new general purpose repositories.
 
 ## Usage
 
