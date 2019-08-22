@@ -6,7 +6,7 @@ This repository is meant to serve as a general template for how to set up new ge
 
 ## Usage
 
-[https://help.github.com/en/articles/creating-a-repository-from-a-template](Creating a repository from a template)
+[https://help.github.com/en/articles/creating-a-repository-from-a-template] (Creating a repository from a template)
 
 License
 -------
