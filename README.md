@@ -15,7 +15,7 @@ This repository is meant to serve as a template for how to set up new general pu
 ## Usage
 
 1. [Creating a repository from a template](https://help.github.com/en/articles/creating-a-repository-from-a-template).
-1. After clonning run `./bootstrap.sh`.
+1. After local cloning run `./bootstrap.sh`.
 
 License
 -------
