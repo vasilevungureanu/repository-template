@@ -2,8 +2,6 @@
 #
 # Running this script will:
 # * Install all git hooks.
-# * Install pre-push git hook.
-# * Install commit-msg git hook.
 # * Install shellcheck.
 
 # If a command fails then do not proceed and fail this script too
